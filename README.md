@@ -9,3 +9,4 @@
 | 9/7/22 | [That OS is yours ? No, my malware is there](https://youtu.be/yIqoxIHmCl8) |
 | 12/7/22 | [Beginner Bootcamp Part 2]() |
 | 18/7/22 | [Wifi Hacking & Network Hardening](https://youtu.be/NXvGttrYp-E) |
+| 19/7/22 | []() |

@@ -10,5 +10,5 @@
 | 12/7/22 | [Beginner Bootcamp Part 2]() | g3nj1z |
 | 18/7/22 | [Wifi Hacking & Network Hardening](https://youtu.be/NXvGttrYp-E) | Jerung669 |
 | 19/7/22 | [Database Hacking & Windows Hardening](https://youtu.be/5woykX5t7lE) | ComotSec |
-| 21/7 | [Privilege Escalation Mitigation & SickOS 1.1 Walkthrough](https://youtu.be/-Y0Xb85FJ5c) | daisyBlackforest |
-|  |  |
+| 21/7/22 | [Privilege Escalation Mitigation & SickOS 1.1 Walkthrough](https://youtu.be/-Y0Xb85FJ5c) | daisyBlackforest |
+|  |  |  |
